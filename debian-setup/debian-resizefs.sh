@@ -57,7 +57,7 @@ case "$1" in
 esac
 
 # New size of root filesystem
-ROOT_SIZE="8G"
+ROOT_SIZE="190G"
 
 # Convert root from possible UUID to device name
 echo "root=${ROOT}  "
